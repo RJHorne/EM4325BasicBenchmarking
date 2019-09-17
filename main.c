@@ -40,7 +40,6 @@ int main(void)
 	            counterData++;
 	        }
 	    toggle = 1;
-	  //  counterData++;
 	    frame = 0;
 	    }
 	    else
